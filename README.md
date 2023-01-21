@@ -17,6 +17,6 @@ To compile the project you need to use a terminal and use :
 -> gcc -o prog.exe *.c  
   
 ### Specifications :  
-This project was made in C, on Windows as a side project (comments in French).  
+This is a side project was made in C, on Windows (comments in French).  
   
 ### Preview : 
