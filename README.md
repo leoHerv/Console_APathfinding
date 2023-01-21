@@ -20,3 +20,4 @@ To compile the project you need to use a terminal and use :
 This is a side project was made in C, on Windows (comments in French).  
   
 ### Preview (youtube video): 
+[![gamePlay](https://img.youtube.com/vi/NADTzKfjtpo/0.jpg)](https://www.youtube.com/watch?v=NADTzKfjtpo&ab_channel=L%C3%A9oH)
