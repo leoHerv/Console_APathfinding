@@ -19,4 +19,4 @@ To compile the project you need to use a terminal and use :
 ### Specifications :  
 This is a side project was made in C, on Windows (comments in French).  
   
-### Preview : 
+### Preview (youtube video): 
